@@ -38,7 +38,7 @@ This platform provides alumni with a space to interact, contribute, and stay con
 ![Gallery](ss/gallery.png)  
 
 ### Donate Page  
-![Donate Page](screenshots/donate.png)  
+![Donate Page](ss/donate.png)  
 
 ---
 
