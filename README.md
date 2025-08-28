@@ -26,16 +26,16 @@ This platform provides alumni with a space to interact, contribute, and stay con
 ## 📸 Screenshots  
 
 ### Home Page  
-![Home Page](screenshots/home.png)  
+![Home Page](ss/home.png)  
 
 ### Register Page  
-![Register Page](screenshots/register.png)  
+![Register Page](ss/register.png)  
 
 ### Events Page  
-![Events Page](screenshots/events.png)  
+![Events Page](ss/events.png)  
 
 ### Gallery  
-![Gallery](screenshots/gallery.png)  
+![Gallery](ss/gallery.png)  
 
 ### Donate Page  
 ![Donate Page](screenshots/donate.png)  
